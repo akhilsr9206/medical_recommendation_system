@@ -64,15 +64,8 @@ This project predicts possible diseases based on reported symptoms and provides 
 ***
 
 
-[1](https://github.com/catiaspsilva/README-template)
-[2](https://github.com/anujonthemove/Python-Machine-Learning-Template)
-[3](https://realpython.com/readme-python-project/)
-[4](https://www.makeareadme.com)
-[5](https://github.com/KalyanM45/Data-Science-Project-Readme-Template)
-[6](https://deepsense.ai/blog/standard-template-for-machine-learning-projects-deepsense-ais-approach/)
-[7](https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e)
-[8](https://packaging.python.org/guides/making-a-pypi-friendly-readme/)
-[9](https://www.machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
+
 
 
 
