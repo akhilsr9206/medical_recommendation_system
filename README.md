@@ -57,7 +57,6 @@ This project predicts possible diseases based on reported symptoms and provides 
 
 ## 📚 References
 
-- Noor Saeed, “Medicine Recommendation System Dataset,” Kaggle  
 - scikit-learn documentation: https://scikit-learn.org/stable/
 - Python 3.x documentation: https://docs.python.org/3/
 - Imbalanced-learn documentation: https://imbalanced-learn.org/stable/
@@ -74,4 +73,5 @@ This project predicts possible diseases based on reported symptoms and provides 
 [7](https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e)
 [8](https://packaging.python.org/guides/making-a-pypi-friendly-readme/)
 [9](https://www.machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
 
