@@ -40,7 +40,7 @@ This project predicts possible diseases based on reported symptoms and provides 
 ## 📈 Results
 
 - All tested algorithms (SVM, Random Forest, etc.) achieved 100% accuracy with perfect precision and recall, likely due to clean one-hot encoded data and well-separated disease categories.
-- Example visualizations are included for ROC curves and confusion matrices (see images/ folder).
+- Example visualizations are included for ROC curves and confusion matrices.
 - The system provides direct disease prediction as well as suggested medications, lifestyle, and dietary changes for each prediction.
 
 ***
@@ -73,5 +73,6 @@ This project predicts possible diseases based on reported symptoms and provides 
 [7](https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e)
 [8](https://packaging.python.org/guides/making-a-pypi-friendly-readme/)
 [9](https://www.machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+
 
 
