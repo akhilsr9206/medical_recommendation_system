@@ -11,7 +11,7 @@ This project predicts possible diseases based on reported symptoms and provides 
 ## 🚦 What This Project Does
 
 - Loads and preprocesses a medical symptoms dataset from Kaggle
-- Trains multiple machine learning models: Support Vector Machine (SVM), Random Forest, Gradient Boosting, KNeighbors, and Naive Bayes
+- Trains machine learning models: Support Vector Machine (SVM), Random Forest
 - Evaluates models using cross-validation accuracy, precision, recall, and F1-score
 - Provides disease predictions and actionable recommendations on medications, precautions, diets, and workouts for user symptoms
 - Visualizes results with confusion matrices, ROC curves, and feature importance plots
@@ -62,6 +62,7 @@ This project predicts possible diseases based on reported symptoms and provides 
 - Imbalanced-learn documentation: https://imbalanced-learn.org/stable/
 
 ***
+
 
 
 
